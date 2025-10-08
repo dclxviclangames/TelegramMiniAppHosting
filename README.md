@@ -1,2 +1,2 @@
 # TelegramMiniAppHosting
-Hosting script for buy Telegram Stars and payment in Render.com 
+Hosting script for buy payments Telegram Stars and payment in Render.com or dclxviclan.pythonanywhere.com
